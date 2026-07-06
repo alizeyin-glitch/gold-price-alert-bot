@@ -1,0 +1,9 @@
+{
+    "thresholdUp": 50,
+    "thresholdDown": 100,
+    "startTime": "03:00",
+    "endTime": "10:00",
+    "referencePrice": null,
+    "awaitingSince": null,
+    "lastUpdateId": 0
+}
